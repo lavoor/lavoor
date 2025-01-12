@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">recent projects</h4>
+<h4 align="left">some projects</h4>
 
 <ul>
   <li>
