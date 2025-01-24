@@ -14,6 +14,9 @@
 
 <ul>
   <li>
+    <a href="https://panstwamiasta.online">panstwamiasta.online</a> - Online word game.
+  </li>
+  <li>
     <a href="https://drewnianepaliki.pl">drewnianepaliki.pl</a> - A website for wooden stakes producer.
   </li>
   <li>
